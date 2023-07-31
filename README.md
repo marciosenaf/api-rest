@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/marciosenaf/api-rest/blob/main/LICENSE) 
+
 # Documentação da API REST em Go
 Aqui está a documentação da API REST em Go e do cliente para consumir essa API.
 
